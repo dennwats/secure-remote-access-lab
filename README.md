@@ -1,6 +1,9 @@
 
 # 🛡️ Secure Remote Access Lab – AWS Client VPN for Amazon Connect
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ff38907c-c524-4496-9ff8-d9bd371f2d78" />
+
+
 ## 🧠 Objective
 
 To provide a scalable and secure VPN setup using AWS Client VPN with Elastic IPs (static IPs) that integrate with Amazon Connect, allowing 2–4 users to securely connect using the AWS VPN Client. This solution uses mutual authentication for simplicity.
